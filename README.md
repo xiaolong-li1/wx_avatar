@@ -1,2 +1,2 @@
 # profile_photo_editor_weChatApplet
-为清华校庆开发的头像边框微信小程序
+个人尝试制作的的第一个微信小程序
